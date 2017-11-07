@@ -1,8 +1,6 @@
 # iicharts
 Iosif's Helm Charts
 
-Charts will be availabe here: https://iiosif.github.io/iicharts/
-
-You can add this repository to your local client do:
+To add this repository to your local helm client do this:
 
 helm repo add iicharts https://iiosif.github.io/iicharts/
