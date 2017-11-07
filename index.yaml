@@ -2,11 +2,20 @@ apiVersion: v1
 entries:
   mychart:
   - apiVersion: v1
-    created: 2017-11-07T12:33:06.834662238+01:00
+    created: 2017-11-07T14:07:09.984507804+01:00
     description: A Helm chart for Kubernetes
     digest: ae8d7138002d432014dc8638ec37202823e9207445caf08a660d154b26e936ea
     name: mychart
     urls:
     - https://iiosif.github.io/iicharts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2017-11-07T12:33:06.833871623+01:00
+  tdp:
+  - apiVersion: v1
+    created: 2017-11-07T14:07:09.986333333+01:00
+    description: A Helm chart for Kubernetes
+    digest: f5caf8dffd00cdf0cfa4bea6543ed9a4610fb6fb90d5ffb38ca1f7a4ab99e1fe
+    name: tdp
+    urls:
+    - https://iiosif.github.io/iicharts/tdp-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-11-07T14:07:09.982640603+01:00
